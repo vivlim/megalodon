@@ -1,9 +1,9 @@
 node_modules
-lib
+#lib
 example/typescript/dist
 example/webpack/dist
 example/vite/dist
-docs/
+#docs/
 .env
 .yarn/*
 !.yarn/releases
