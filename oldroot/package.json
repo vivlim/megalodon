@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "workspaces": [
+    "megalodon",
+    "example/typescript",
+    "example/webpack",
+    "example/vite"
+  ],
+  "packageManager": "yarn@4.5.1",
+  "engines": {
+    "npm": "use yarn instead",
+    "yarn": "4.5.1"
+  }
+}
